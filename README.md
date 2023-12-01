@@ -7,3 +7,6 @@ I created this tool to help reducing and resolving merge conflicts at early stag
 3. You get a sound notification whenever a new commit relates to your tracked keywords (list of files given)
 4. If you need to update your last pull date or your keywords, please close and relaunch the tool
 5. If you would like to improve the tool, you can find the source code here: https://github.com/m-housni/git-log-monitor
+
+## NB
+You may need a compiler like CodeBlocks to get the executable.
