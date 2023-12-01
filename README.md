@@ -9,4 +9,4 @@ I created this tool to help reducing and resolving merge conflicts at early stag
 5. If you would like to improve the tool, you can find the source code here: https://github.com/m-housni/GitLogMonitor
 
 ## NB
-You may need a compiler like CodeBlocks to get the executable.
+You may need a IDE like CodeBlocks to get the executable.
